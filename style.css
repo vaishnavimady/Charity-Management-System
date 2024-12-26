@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://media.istockphoto.com/id/1199796265/photo/alphabet-letter-wooden-blocks-with-words-give-in-child-and-parents-hands-family-and-charity.jpg?s=612x612&w=0&k=20&c=pw3vEEoJBcQlem1TZPsEFvE-VXfkoKOpHQ74T9LbGvw=);
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar{
+    width:1200px;
+    height:75px;
+    margin: auto;
+}
+
+.icon{
+    width:200px;
+    float:left;
+    height:70px;
+}
+
+.logo{
+    color:white;
+    font-size: 50px;
+    font-family: Century Gothic;
+    padding-left:10px;
+    float:left;
+    padding-top: 100px;
+    
+}
+.tagline{    
+    color:white;
+    font-size: 20px;
+    font-family: 'century gothic';
+    padding-left: 10px;
+    white-space: nowrap;
+    
+}
+
+.menu{
+    width:550px;
+    float:right;
+    height:70px;
+}
+
+ul{
+    float:right;
+    display: flex;
+    justify-content: center;
+    align-items:left;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 20px;
+    white-space:nowrap;
+}
+
+ul li a{
+    text-decoration:none;
+    color:white;
+    font-family: 'Century Gothic';
+    border:none;
+    padding: 4px 5px;
+
+    transition:0.4s ease-in-out;
+
+}
+
+ul li a:hover{
+    color:black;
+}
+table{
+    color:aliceblue;
+    font-size: 8;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+

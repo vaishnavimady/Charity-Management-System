@@ -1,0 +1,78 @@
+*{
+    margin:0px;
+    padding:0;
+    background:  whitesmoke;
+   
+}
+
+
+
+.btn {
+   
+    border:0;
+    background: none;
+    display:block;
+    margin: 20px auto;
+    text-align: center;
+    border:2px solid black;
+    padding: 14px 10px;
+    width: 220px;
+    outline:none;
+    color:black;
+    border-radius: 24px;
+    transition: 0.25px;
+    cursor: pointer;
+    
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background:rgb(118, 115, 115)}
+  
+  .success {color:grey;
+}
+  .maincause{
+    font-family: century gothic;
+    font-size: 40px;
+    color: rgb(61, 61, 54);
+    text-align: center;
+    
+
+  }
+
+.cause1{
+    
+    
+    font-family: century gothic;
+    font-size: 20px;
+    padding:20px;
+    color: grey;
+}
+   
+
+.cause2{
+    font-family: century gothic;
+    font-size: 20px;
+    padding:20px;
+    color: grey;
+
+    
+    
+}
+.cause3{
+    font-family: century gothic;
+    font-size: 20px;
+    padding:20px;
+    color: grey;
+
+   
+    
+}
+.cause4{
+    font-family: century gothic;
+    font-size: 20px;
+    padding:20px;
+    color: grey;
+
+    
+   
+}
